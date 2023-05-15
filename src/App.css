@@ -1,0 +1,8 @@
+#root {
+
+}
+.main-wrapper{
+    width: min(90%, 400px);
+    margin: 100px auto;
+}
+
